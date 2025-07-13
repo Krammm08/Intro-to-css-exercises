@@ -32,11 +32,11 @@ body {
 }
 
 button {
-  font-size: x-large;
   display: block;
-  padding: 8px 40px;
-  margin-left: 175px;
-  text-align: center;
+  margin: 0 auto;
+  font-size: x-large;
+  align-content: center;
+  padding: 8px 2dvh;
   background: white;
   border: 1px solid #eee;
 }
